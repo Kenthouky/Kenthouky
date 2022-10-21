@@ -61,7 +61,7 @@
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
 	
-	</ul>	
+		
 </details>
 
 #
