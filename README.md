@@ -14,12 +14,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/kenthouky"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- 
-  <a href="https://dev.to/Kenthouky"><img width="32px" alt="Dev.to" title="Kenthouky Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+ <a href="https://dev.to/Kenthouky"><img width="32px" alt="Dev.to" title="Kenthouky Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/Kenthouky"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
 </p>
 
 <br/>
